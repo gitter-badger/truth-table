@@ -3,6 +3,8 @@
 Truth Table
 =========================
 
+[![Join the chat at https://gitter.im/Sephyros/truth-table](https://badges.gitter.im/Sephyros/truth-table.svg)](https://gitter.im/Sephyros/truth-table?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Gerador de tabela verdade. Truth table generator
 
 
